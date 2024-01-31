@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.editor-container {
+    border: 2px solid blue;
+    padding: 10px;
+    margin-left: 40px; margin-right: 40px;
+    position: relative;
+    height: 70vh;
+}
+
+.save-button {
+    margin-left:35%;
+}
+
+h4 {
+    margin-left: 42%;
+}
+
+.red-line {
+    color: red;
+    text-decoration: line-through;
+  }
